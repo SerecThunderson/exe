@@ -5,11 +5,11 @@ All exes are **under development**, and **not intended for use**.
 
 
 ##  Features    
-- No modularity
-- No extensibility
-- No readability
-- Not lightweight
-- Utilities 
+- **No** modularity
+- **No** extensibility
+- **No** readability
+- **Not** lightweight
+- **Some** utilities 
         
 
 ## Contributing
