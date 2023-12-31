@@ -1,5 +1,5 @@
 # Serec's EXE trove
-A living collection of **funny exe tools** focus on **double click to open**.
+A living collection of **funny exe tools** with a strong development focus on **double click to open**.
 
 All exes are **under development**, and **not intended for use**.
 
