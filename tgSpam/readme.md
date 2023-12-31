@@ -10,7 +10,7 @@ A silly exe that **spams telegram** with a strong development focus on **sending
         
 
 ## How to use
-- First, download the .exe if you date
+- First, download the .exe if you dare
 - Then, go to my.telegram.org and create a bot application and copy down your "API ID" and "API HASH"
 - Get the integer ID for the group you wish to spam to
 - Open the exe
