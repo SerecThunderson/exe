@@ -10,13 +10,13 @@ A silly exe that **spams telegram** with a strong development focus on **sending
         
 
 ## How to use
-• First, download the .exe if you date
-• Then, go to my.telegram.org and create a bot application and copy down your "API ID" and "API HASH"
-• Get the integer ID for the group you wish to spam to
-• Open the exe
-• Enter in the API and group details - these are saved
-• Enter in message details - message, count, and delay - these refresh on restart
-• Don't spam too hard and get banned!
+- First, download the .exe if you date
+- Then, go to my.telegram.org and create a bot application and copy down your "API ID" and "API HASH"
+- Get the integer ID for the group you wish to spam to
+- Open the exe
+- Enter in the API and group details - these are saved
+- Enter in message details - message, count, and delay - these refresh on restart
+- Don't spam too hard and get banned!
 
 
 ## Support  
